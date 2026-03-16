@@ -16,3 +16,6 @@ This project analyzes e-commerce sales data using SQL, Excel, and Power BI.
 - Identified top-performing product categories
 - Analyzed sales trends over time
 - Compared sales performance across states
+
+## Dashboard Preview
+![Dashboard](Images/dashboard_preview.png)
