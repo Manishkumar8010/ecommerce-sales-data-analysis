@@ -1,0 +1,201 @@
+﻿customer_id,customer_name,city,state,signup_date
+1,Arjun Sharma,Jaipur,Rajasthan,2023-09-08
+2,Yash Verma,Hyderabad,Telangana,2024-07-12
+3,Aditya Arora,Gurgaon,Haryana,2023-02-02
+4,Aarav Singh,Pune,Maharashtra,2023-08-27
+5,Ravi Saxena,Delhi,Delhi,2024-07-28
+6,Rohan Chopra,Gurgaon,Haryana,2023-08-14
+7,Harsh Arora,Jaipur,Rajasthan,2023-01-07
+8,Kabir Joshi,Indore,Madhya Pradesh,2023-10-12
+9,Ishaan Gupta,Indore,Madhya Pradesh,2023-04-15
+10,Aditya Bansal,Hyderabad,Telangana,2024-01-03
+11,Sahil Saxena,Jaipur,Rajasthan,2023-02-14
+12,Harsh Chopra,Hyderabad,Telangana,2024-01-23
+13,Aditya Chopra,Lucknow,Uttar Pradesh,2024-01-06
+14,Varun Gupta,Bangalore,Karnataka,2023-02-16
+15,Yash Jain,Bangalore,Karnataka,2023-08-27
+16,Arjun Bansal,Jaipur,Rajasthan,2024-04-09
+17,Sahil Nair,Surat,Gujarat,2023-12-30
+18,Rohan Malhotra,Bangalore,Karnataka,2023-06-25
+19,Deepak Agarwal,Kolkata,West Bengal,2024-04-18
+20,Ritik Malhotra,Ahmedabad,Gujarat,2023-11-29
+21,Vivaan Agarwal,Mumbai,Maharashtra,2023-11-20
+22,Ritik Malhotra,Bangalore,Karnataka,2023-08-05
+23,Varun Kapoor,Pune,Maharashtra,2024-05-26
+24,Ritik Iyer,Chennai,Tamil Nadu,2023-09-29
+25,Ishaan Agarwal,Jaipur,Rajasthan,2024-08-21
+26,Karan Arora,Noida,Uttar Pradesh,2024-01-06
+27,Yash Verma,Patna,Bihar,2023-04-04
+28,Vivaan Mehta,Chennai,Tamil Nadu,2023-06-13
+29,Karan Saxena,Bangalore,Karnataka,2024-01-30
+30,Ritik Saxena,Kochi,Kerala,2024-06-25
+31,Raj Chopra,Delhi,Delhi,2023-04-28
+32,Deepak Malhotra,Indore,Madhya Pradesh,2023-04-25
+33,Ankit Joshi,Kolkata,West Bengal,2024-04-09
+34,Aarav Malhotra,Kolkata,West Bengal,2024-06-03
+35,Arjun Jain,Pune,Maharashtra,2023-06-06
+36,Sahil Nair,Delhi,Delhi,2023-11-28
+37,Nikhil Sharma,Hyderabad,Telangana,2024-01-07
+38,Ankit Agarwal,Mumbai,Maharashtra,2023-09-04
+39,Varun Singh,Bangalore,Karnataka,2024-05-12
+40,Aditya Chopra,Chennai,Tamil Nadu,2023-05-12
+41,Nikhil Chopra,Kolkata,West Bengal,2023-09-29
+42,Ravi Saxena,Gurgaon,Haryana,2023-08-05
+43,Deepak Gupta,Lucknow,Uttar Pradesh,2024-02-13
+44,Sahil Iyer,Kochi,Kerala,2023-05-04
+45,Yash Agarwal,Bangalore,Karnataka,2023-12-13
+46,Aarav Arora,Ahmedabad,Gujarat,2023-08-14
+47,Aarav Singh,Mumbai,Maharashtra,2023-08-23
+48,Aditya Patel,Indore,Madhya Pradesh,2023-03-14
+49,Ravi Agarwal,Jaipur,Rajasthan,2024-05-12
+50,Rohan Chopra,Chennai,Tamil Nadu,2024-08-07
+51,Varun Yadav,Ahmedabad,Gujarat,2024-04-29
+52,Karan Gupta,Hyderabad,Telangana,2023-04-10
+53,Karan Khan,Gurgaon,Haryana,2024-02-25
+54,Harsh Patel,Hyderabad,Telangana,2023-03-04
+55,Ritik Kapoor,Hyderabad,Telangana,2023-09-12
+56,Rohan Gupta,Kochi,Kerala,2023-05-24
+57,Karan Nair,Jaipur,Rajasthan,2024-04-18
+58,Yash Singh,Kochi,Kerala,2024-07-17
+59,Arjun Patel,Delhi,Delhi,2023-04-06
+60,Yash Nair,Gurgaon,Haryana,2024-05-12
+61,Nikhil Gupta,Noida,Uttar Pradesh,2023-03-02
+62,Kabir Bansal,Delhi,Delhi,2024-02-04
+63,Raj Iyer,Lucknow,Uttar Pradesh,2024-03-09
+64,Deepak Yadav,Chennai,Tamil Nadu,2023-07-14
+65,Ankit Gupta,Mumbai,Maharashtra,2024-08-16
+66,Deepak Patel,Indore,Madhya Pradesh,2023-02-28
+67,Vivaan Arora,Patna,Bihar,2024-05-29
+68,Ravi Nair,Mumbai,Maharashtra,2024-06-04
+69,Aditya Nair,Bangalore,Karnataka,2023-03-11
+70,Yash Bansal,Hyderabad,Telangana,2024-08-06
+71,Yash Arora,Mumbai,Maharashtra,2023-03-25
+72,Karan Arora,Indore,Madhya Pradesh,2023-09-25
+73,Rohan Kapoor,Ahmedabad,Gujarat,2023-09-29
+74,Ritik Verma,Lucknow,Uttar Pradesh,2024-04-13
+75,Manav Singh,Delhi,Delhi,2024-04-14
+76,Ajay Arora,Hyderabad,Telangana,2023-03-17
+77,Deepak Gupta,Jaipur,Rajasthan,2023-05-16
+78,Sahil Singh,Ahmedabad,Gujarat,2024-01-14
+79,Ankit Nair,Kochi,Kerala,2024-07-10
+80,Ankit Saxena,Delhi,Delhi,2024-07-21
+81,Ankit Mehta,Chennai,Tamil Nadu,2023-09-28
+82,Arjun Mehta,Chennai,Tamil Nadu,2023-10-06
+83,Ankit Saxena,Pune,Maharashtra,2023-12-18
+84,Rohan Malhotra,Patna,Bihar,2023-09-15
+85,Vivaan Singh,Gurgaon,Haryana,2023-10-11
+86,Vivaan Sharma,Indore,Madhya Pradesh,2023-05-14
+87,Raj Nair,Kochi,Kerala,2024-07-18
+88,Karan Chopra,Delhi,Delhi,2023-04-25
+89,Aditya Verma,Mumbai,Maharashtra,2024-01-14
+90,Varun Chopra,Chennai,Tamil Nadu,2024-03-16
+91,Ishaan Patel,Lucknow,Uttar Pradesh,2024-01-09
+92,Vivaan Khan,Pune,Maharashtra,2023-09-13
+93,Arjun Khan,Gurgaon,Haryana,2023-06-08
+94,Yash Nair,Kolkata,West Bengal,2024-02-27
+95,Aarav Nair,Indore,Madhya Pradesh,2024-02-26
+96,Yash Malhotra,Kolkata,West Bengal,2023-04-21
+97,Ritik Patel,Patna,Bihar,2023-08-16
+98,Rohan Iyer,Surat,Gujarat,2023-11-09
+99,Yash Agarwal,Delhi,Delhi,2023-07-17
+100,Ritik Kapoor,Jaipur,Rajasthan,2023-03-13
+101,Raj Khan,Noida,Uttar Pradesh,2024-07-03
+102,Manav Sharma,Hyderabad,Telangana,2023-09-25
+103,Kabir Arora,Jaipur,Rajasthan,2023-02-09
+104,Arjun Saxena,Gurgaon,Haryana,2023-12-20
+105,Manav Joshi,Hyderabad,Telangana,2024-01-30
+106,Varun Gupta,Jaipur,Rajasthan,2023-02-15
+107,Karan Sharma,Pune,Maharashtra,2024-01-08
+108,Karan Singh,Indore,Madhya Pradesh,2023-11-18
+109,Arjun Jain,Lucknow,Uttar Pradesh,2024-02-23
+110,Manav Bansal,Lucknow,Uttar Pradesh,2024-07-21
+111,Ishaan Gupta,Gurgaon,Haryana,2024-01-24
+112,Kabir Saxena,Lucknow,Uttar Pradesh,2024-02-20
+113,Deepak Sharma,Lucknow,Uttar Pradesh,2023-10-21
+114,Rohan Joshi,Indore,Madhya Pradesh,2024-04-21
+115,Harsh Iyer,Pune,Maharashtra,2024-06-07
+116,Nikhil Nair,Bangalore,Karnataka,2023-10-18
+117,Ravi Saxena,Indore,Madhya Pradesh,2023-04-06
+118,Yash Jain,Ahmedabad,Gujarat,2023-07-23
+119,Ishaan Sharma,Mumbai,Maharashtra,2023-09-08
+120,Nikhil Saxena,Bangalore,Karnataka,2024-04-11
+121,Karan Arora,Pune,Maharashtra,2024-01-29
+122,Nikhil Bansal,Ahmedabad,Gujarat,2023-06-01
+123,Aarav Mehta,Gurgaon,Haryana,2023-08-13
+124,Kabir Das,Kochi,Kerala,2023-02-21
+125,Deepak Agarwal,Hyderabad,Telangana,2024-04-12
+126,Ishaan Iyer,Indore,Madhya Pradesh,2024-03-29
+127,Ajay Das,Gurgaon,Haryana,2024-07-15
+128,Harsh Nair,Patna,Bihar,2024-04-05
+129,Raj Agarwal,Jaipur,Rajasthan,2024-06-17
+130,Nikhil Agarwal,Jaipur,Rajasthan,2024-03-26
+131,Aditya Jain,Ahmedabad,Gujarat,2023-10-06
+132,Manav Kapoor,Bangalore,Karnataka,2023-05-22
+133,Ishaan Agarwal,Noida,Uttar Pradesh,2023-06-06
+134,Rohan Singh,Gurgaon,Haryana,2024-02-22
+135,Manav Chopra,Kochi,Kerala,2024-03-01
+136,Vivaan Gupta,Gurgaon,Haryana,2024-02-03
+137,Varun Sharma,Noida,Uttar Pradesh,2024-05-03
+138,Aarav Khan,Lucknow,Uttar Pradesh,2024-02-04
+139,Karan Chopra,Ahmedabad,Gujarat,2024-05-14
+140,Yash Malhotra,Gurgaon,Haryana,2024-05-12
+141,Aarav Bansal,Indore,Madhya Pradesh,2024-02-19
+142,Kabir Iyer,Chennai,Tamil Nadu,2024-06-30
+143,Aarav Bansal,Delhi,Delhi,2023-03-27
+144,Karan Verma,Kochi,Kerala,2023-07-06
+145,Vivaan Malhotra,Noida,Uttar Pradesh,2023-12-02
+146,Rohan Iyer,Indore,Madhya Pradesh,2023-12-12
+147,Ritik Malhotra,Gurgaon,Haryana,2023-09-16
+148,Aditya Yadav,Delhi,Delhi,2024-07-06
+149,Vivaan Khan,Ahmedabad,Gujarat,2023-03-12
+150,Vivaan Sharma,Ahmedabad,Gujarat,2023-07-24
+151,Aarav Saxena,Chennai,Tamil Nadu,2023-09-02
+152,Ishaan Yadav,Hyderabad,Telangana,2024-07-31
+153,Rohan Iyer,Jaipur,Rajasthan,2024-01-13
+154,Kabir Saxena,Hyderabad,Telangana,2023-06-17
+155,Ankit Mehta,Delhi,Delhi,2023-11-16
+156,Varun Bansal,Noida,Uttar Pradesh,2023-07-23
+157,Aditya Arora,Ahmedabad,Gujarat,2023-04-15
+158,Ankit Saxena,Hyderabad,Telangana,2024-08-02
+159,Vivaan Khan,Gurgaon,Haryana,2024-01-15
+160,Aditya Das,Indore,Madhya Pradesh,2023-01-13
+161,Karan Yadav,Hyderabad,Telangana,2024-03-19
+162,Sahil Iyer,Chennai,Tamil Nadu,2024-03-21
+163,Kabir Das,Jaipur,Rajasthan,2024-07-05
+164,Nikhil Iyer,Gurgaon,Haryana,2023-10-02
+165,Manav Agarwal,Bangalore,Karnataka,2023-10-13
+166,Harsh Agarwal,Kochi,Kerala,2024-08-06
+167,Ajay Bansal,Indore,Madhya Pradesh,2023-01-30
+168,Nikhil Kapoor,Kolkata,West Bengal,2024-05-14
+169,Rohan Khan,Jaipur,Rajasthan,2023-12-15
+170,Raj Saxena,Jaipur,Rajasthan,2024-07-23
+171,Aarav Das,Pune,Maharashtra,2023-03-29
+172,Yash Joshi,Patna,Bihar,2024-07-22
+173,Yash Yadav,Patna,Bihar,2024-04-03
+174,Aarav Singh,Lucknow,Uttar Pradesh,2023-08-15
+175,Ritik Agarwal,Lucknow,Uttar Pradesh,2024-08-18
+176,Sahil Yadav,Surat,Gujarat,2024-03-11
+177,Deepak Kapoor,Surat,Gujarat,2024-04-09
+178,Raj Jain,Jaipur,Rajasthan,2023-08-25
+179,Arjun Gupta,Indore,Madhya Pradesh,2023-05-03
+180,Deepak Nair,Pune,Maharashtra,2023-08-10
+181,Nikhil Malhotra,Lucknow,Uttar Pradesh,2023-04-13
+182,Rohan Jain,Ahmedabad,Gujarat,2024-01-05
+183,Kabir Jain,Delhi,Delhi,2024-06-30
+184,Ishaan Malhotra,Mumbai,Maharashtra,2023-02-25
+185,Deepak Jain,Chennai,Tamil Nadu,2024-05-17
+186,Arjun Sharma,Lucknow,Uttar Pradesh,2024-04-25
+187,Nikhil Iyer,Indore,Madhya Pradesh,2023-07-08
+188,Vivaan Malhotra,Patna,Bihar,2023-04-27
+189,Aditya Bansal,Patna,Bihar,2023-03-17
+190,Varun Patel,Chennai,Tamil Nadu,2023-06-02
+191,Varun Jain,Bangalore,Karnataka,2023-09-12
+192,Arjun Chopra,Gurgaon,Haryana,2023-08-20
+193,Ravi Bansal,Kochi,Kerala,2024-03-29
+194,Ankit Arora,Gurgaon,Haryana,2023-11-09
+195,Varun Saxena,Mumbai,Maharashtra,2023-04-12
+196,Rohan Gupta,Jaipur,Rajasthan,2023-03-25
+197,Kabir Agarwal,Kolkata,West Bengal,2024-07-19
+198,Aditya Nair,Delhi,Delhi,2024-02-23
+199,Harsh Saxena,Patna,Bihar,2023-10-26
+200,Vivaan Agarwal,Lucknow,Uttar Pradesh,2023-10-17

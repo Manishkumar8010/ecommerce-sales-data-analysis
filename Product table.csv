@@ -1,0 +1,101 @@
+﻿product_id,product_name,category,price
+1,Tablet Model 1,Electronics,160
+2,Laptop Model 2,Electronics,556
+3,Smartwatch Model 3,Electronics,420
+4,Tablet Model 4,Electronics,250
+5,Smartwatch Model 5,Electronics,475
+6,Laptop Model 6,Electronics,559
+7,Laptop Model 7,Electronics,161
+8,Smartphone Model 8,Electronics,354
+9,Headphones Model 9,Electronics,1180
+10,Headphones Model 10,Electronics,914
+11,Smartphone Model 11,Electronics,974
+12,Headphones Model 12,Electronics,839
+13,Headphones Model 13,Electronics,1039
+14,Smartwatch Model 14,Electronics,1026
+15,Tablet Model 15,Electronics,179
+16,Smartwatch Model 16,Electronics,96
+17,Tablet Model 17,Electronics,675
+18,Smartwatch Model 18,Electronics,527
+19,Smartphone Model 19,Electronics,202
+20,Laptop Model 20,Electronics,1193
+21,Smartwatch Model 21,Electronics,57
+22,Headphones Model 22,Electronics,1195
+23,Smartphone Model 23,Electronics,373
+24,Tablet Model 24,Electronics,1077
+25,Tablet Model 25,Electronics,584
+26,Laptop Model 26,Electronics,907
+27,Tablet Model 27,Electronics,201
+28,Tablet Model 28,Electronics,727
+29,Tablet Model 29,Electronics,697
+30,Jacket Model 1,Clothing,229
+31,Jeans Model 2,Clothing,690
+32,Dress Model 3,Clothing,1029
+33,Jacket Model 4,Clothing,835
+34,Hoodie Model 5,Clothing,90
+35,Dress Model 6,Clothing,195
+36,Jacket Model 7,Clothing,531
+37,Jacket Model 8,Clothing,252
+38,Dress Model 9,Clothing,1068
+39,T-Shirt Model 10,Clothing,1126
+40,Dress Model 11,Clothing,861
+41,T-Shirt Model 12,Clothing,399
+42,Hoodie Model 13,Clothing,755
+43,Hoodie Model 14,Clothing,1035
+44,Dress Model 15,Clothing,120
+45,Jeans Model 16,Clothing,561
+46,Hoodie Model 17,Clothing,283
+47,Jacket Model 18,Clothing,912
+48,Dress Model 19,Clothing,263
+49,T-Shirt Model 20,Clothing,505
+50,Jeans Model 21,Clothing,651
+51,Hoodie Model 22,Clothing,43
+52,Hoodie Model 23,Clothing,850
+53,T-Shirt Model 24,Clothing,475
+54,T-Shirt Model 25,Clothing,960
+55,T-Shirt Model 26,Clothing,330
+56,Dress Model 27,Clothing,612
+57,Hoodie Model 28,Clothing,574
+58,Dress Model 29,Clothing,1003
+59,Sandals Model 1,Footwear,514
+60,Sandals Model 2,Footwear,1143
+61,Sneakers Model 3,Footwear,800
+62,Sneakers Model 4,Footwear,1055
+63,Sneakers Model 5,Footwear,157
+64,Formal Shoes Model 6,Footwear,864
+65,Formal Shoes Model 7,Footwear,1054
+66,Formal Shoes Model 8,Footwear,20
+67,Formal Shoes Model 9,Footwear,626
+68,Boots Model 10,Footwear,1017
+69,Sneakers Model 11,Footwear,929
+70,Boots Model 12,Footwear,1006
+71,Formal Shoes Model 13,Footwear,695
+72,Boots Model 14,Footwear,1127
+73,Sandals Model 15,Footwear,947
+74,Formal Shoes Model 16,Footwear,401
+75,Sneakers Model 17,Footwear,1186
+76,Sandals Model 18,Footwear,493
+77,Sandals Model 19,Footwear,104
+78,Formal Shoes Model 20,Footwear,983
+79,Sandals Model 21,Footwear,805
+80,Sneakers Model 22,Footwear,1029
+81,Running Shoes Model 23,Footwear,273
+82,Boots Model 24,Footwear,694
+83,Running Shoes Model 25,Footwear,916
+84,Running Shoes Model 26,Footwear,1092
+85,Sandals Model 27,Footwear,46
+86,Sneakers Model 28,Footwear,854
+87,Sneakers Model 29,Footwear,168
+88,Coffee Maker Model 1,Home,557
+89,Blender Model 2,Home,829
+90,Microwave Model 3,Home,687
+91,Vacuum Cleaner Model 4,Home,793
+92,Blender Model 5,Home,1014
+93,Vacuum Cleaner Model 6,Home,88
+94,Vacuum Cleaner Model 7,Home,155
+95,Air Fryer Model 8,Home,603
+96,Air Fryer Model 9,Home,200
+97,Coffee Maker Model 10,Home,216
+98,Microwave Model 11,Home,923
+99,Air Fryer Model 12,Home,628
+100,Microwave Model 13,Home,109
