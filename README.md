@@ -18,4 +18,4 @@ This project analyzes e-commerce sales data using SQL, Excel, and Power BI.
 - Compared sales performance across states
 
 ## Dashboard Preview
-![Dashboard](Images/dashboard_preview.png)
+![Dashboard](Ecommerce-sales%20Dashboard.png)
